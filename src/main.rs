@@ -18,4 +18,7 @@ fn main() {
     let name: &str = "Vedansh";
     let sur_name: &str = "Shrivastava";
     println!("My name is {} {}", name, sur_name);
+
+    let  mut num = 100;
+    println!("the number is {}", num);
 }
