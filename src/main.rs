@@ -1,4 +1,11 @@
-#![allow(non_snake_case)]
+/**
+ * Author: Vedansh Shrivastava
+ * date: 10/10/21
+ * catch me at: https://www.linkedin.com/in/vedansh-shrivastava-b5ab221b3/
+ */
+
+
+#![allow(non_snake_case)] //if not used snake case
 use std::{i8, i16, i32, i64, i128, u8, u16, u32, u64, isize, usize, f32, f64};
 
 use std::io::stdin;
