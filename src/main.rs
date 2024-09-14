@@ -23,7 +23,7 @@ fn main() {
     println!("the number is {}", num);
 
     //Boolean
-    let is_it_true: bool = true; //false
+    let _is_it_true: bool = true; //false
 
     //Character
     let one_char: char = 'a'; //single quotes not double quotes
@@ -34,6 +34,10 @@ fn main() {
     //Define multiple variables on multiple lines
     let(country, city) = ("India", "Bhopal");
     println!("I am from {} and I live in {}", country, city);
+
+    //Float
+    let the_float: f32 = 2.5;
+    println!("the float is {}", the_float);
 
     //Operators for math calculations
     println!("5 + 4 = {}", 5 + 4);
