@@ -7,4 +7,7 @@ fn main() {
 
     let num: i8 = 10; //i32 by default
     println!("this number is {}", num);
+    let name: &str = "Vedansh";
+    let sur_name: &str = "Shrivastava";
+    println!("My name is {} {}", name, sur_name);
 }
